@@ -1,0 +1,48 @@
+Data Description 
+"EU countries unemployment situation 2012-2021"
+=======================================
+
+------ About the .pbix file --------------
+
+Open with PowerBI, 
+Compatibility, Version: 2.112.603.0 64-bit (December 2022) or less. 
+
+
+========================================
+---About the R codes-----
+========================================
+The R codes contains 
+=====
+- DSDC - A comprehensive descriptive statistical analysis for developed and undeveloped EU countries. 
+========================================
+- DSRC - A comprehensive descriptive statistical analysis for Old and New EU countries. 
+========================================
+- CAEU - A correlation analysis for the indicators for studied groups. 
+========================================
+All the Linear regression carried out for each class namely Multiple Linear regression and Simple Linear regression for Development and Reformation class. 
+
+- SLRD - Simple linear regression for development class
+- SLRR - Simple linear regression for reformation class
+- MLRD - Multiple linear regression for development class
+- MLRR - Multiple linear regression for reformation class
+========================================
+All the time series analysis carried out for development and reformation class. 
+
+- DETS - Time series analysis for developed countries
+- UETS - Time series analysis for Underdeveloped countries
+- NETS - Time series analysis for New EU countries
+- OETS - Time series analysis for Old EU countries
+ 
+========================================
+If you want to run this codes, all the codes should be opened and loaded in order as specified in this read me,
+For this case, All Simple Linear regression may not be relevant. 
+
+All the csv data extracted files should be in the same folder while loading and runing the codes.
+
+Do not remove or delete R history.  
+
+The folder Statistical Analysis should be set as the working directory
+
+
+
+
